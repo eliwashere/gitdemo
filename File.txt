@@ -1,3 +1,7 @@
 This is file 1 in the main branch
 This is an update to File
+<<<<<<< HEAD
 Part of Commit 3 in Main
+=======
+Update to File1 from Demo Branch
+>>>>>>> Demo
