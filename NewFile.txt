@@ -1,1 +1,2 @@
 This is a new file
+Post Merge change to NewFile
